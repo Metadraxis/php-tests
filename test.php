@@ -34,12 +34,10 @@
 					<option value = 'Nocturno'>Nocturno</option>
 					</select></td>
 				</tr>
-			</table>
-				
-            
+			</table>        
             <table>
             	<tr>
-                    <td><input type = "submit" id = "BGuardar" name = "BGuardar" value = "Enviar Solicitud" ></input></td>
+                    <td><input type = "submit" id = "BSend" name = "BSend" value = "Enviar Solicitud" ></input></td>
                 </tr>
             </table>
             
