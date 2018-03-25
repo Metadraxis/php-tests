@@ -24,7 +24,7 @@
                 </tr>
                 <tr>
                     <td>Descripción:</td>
-                    <td><textarea name = "justificacion" id = "justificacion" rows="10" cols="80" ></textarea></td>
+                    <td><textarea name = "descripcion" id = "descripcion" rows="10" cols="80" ></textarea></td>
 				</tr>
                 <tr>
 					<td>Turno:</td>
