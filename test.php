@@ -20,7 +20,7 @@
                 </tr>
                 <tr>
                     <td>Titulo de la Solicitud:</td>
-                    <td><input type = "text" name = "objetivo" id = "objetivo" size = "50" maxlength = "100"  ></input></td>
+                    <td><input type = "text" name = "objetivo" id = "objetivo" size = "50" maxlength = "200"  ></input></td>
                 </tr>
                 <tr>
                     <td>Descripción:</td>
