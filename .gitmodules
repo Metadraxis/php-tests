@@ -1,0 +1,3 @@
+[submodule "php-tests-sub"]
+	path = php-tests-sub
+	url = https://github.com/Metadraxis/php-tests-sub.git
